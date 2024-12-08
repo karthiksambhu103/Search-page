@@ -1,0 +1,16 @@
+.input-wrapper {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  width: 30vw;
+}
+
+.input-wrapper input {
+  flex: 1;
+  padding: 8px;
+  font-size: 16px;
+}
+
+#search-icon {
+  margin-right: 8px;
+}
